@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["소원의 별의 힘으로 포켓몬이 강해진다", "스킬이 다이맥스 전용으로 변경된다", "포켓몬의 크기가 거대해진다"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://lh3.googleusercontent.com/bLSWXW-3nZoueDIo7-3Eh8NvlvfOT951i_UUVobwZMty2t2MScUUuYyW-KxsUL9O2udYnnl_DqMwbJfPTmenraEpe1by6-q-OSRURAOlL1r_Nw=e365-w1128", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwthIjI9h2DzRSqCZs6GJb2YgvDxdmaN6-6w&s"],
        "videos": ["https://www.youtube.com/watch?v=bHMxGDIVBxM"]
      },
 }
