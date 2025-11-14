@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["소원의 별의 힘으로 포켓몬이 강해진다", "스킬이 다이맥스 전용으로 변경된다", "포켓몬의 크기가 거대해진다"],
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "videos": ["https://www.youtube.com/watch?v=bHMxGDIVBxM"]
      },
 }
 
