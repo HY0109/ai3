@@ -79,7 +79,7 @@ labels[1]: {
        "texts": ["키스톤의 힘으로 포켓몬이 진화함", "메가진화의 영향으로 외형이 변화함", "포켓몬의 능력치가 상승함"],
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%2595%2584%25EC%25BF%25A0%25EC%258A%25A4%25ED%2583%2580&psig=AOvVaw1jrGlzsNyZSA7ujaGN_gKW&ust=1763522041871000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMj88tjd-pADFQAAAAAdAAAAABAE", "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%259D%25B4%25EC%2596%25B4%25EB%25A1%25AD&psig=AOvVaw0GOOV8iGzC3NG7wF9UL_-l&ust=1763522150323000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCS-Yze-pADFQAAAAAdAAAAABAE"],
        "videos": ["https://www.youtube.com/watch?v=gHXfCWGZWNs"]
-     },
+     }
 # ======================
 # 유틸
 # ======================
